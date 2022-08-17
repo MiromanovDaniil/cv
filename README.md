@@ -1,2 +1,2 @@
 # cv
-active link:https://miromanovdaniil.github.io/cv/
+active link: https://miromanovdaniil.github.io/cv/
