@@ -48,8 +48,7 @@ a:active {
 
 .social {
   background-color: white;
-  box-sizing:border-box;
-  max-width: 120px;
+  width: max-content;
   border-radius: 20px;
   margin-bottom: 20px;
   padding: 5px 8px;
